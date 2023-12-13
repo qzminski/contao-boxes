@@ -1,6 +1,7 @@
 {
   "name": "magmell-agentur/contao-boxes",
   "type": "contao-bundle",
+  "version": "2.3.0",
   "description": "Provides flexible boxes for Contao CMS to manage content on a by-page basis.",
   "license": "LGPL-3.0-or-later",
   "keywords": [
